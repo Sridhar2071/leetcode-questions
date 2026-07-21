@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sridhar2071/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [1534-count-good-triplets](https://github.com/Sridhar2071/leetcode-questions/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/Sridhar2071/leetcode-questions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
