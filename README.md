@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
+| [1470-shuffle-the-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Sridhar2071/leetcode-questions/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sridhar2071/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
