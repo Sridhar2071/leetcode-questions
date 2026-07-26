@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1470-shuffle-the-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Sridhar2071/leetcode-questions/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
