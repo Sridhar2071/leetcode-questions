@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sridhar2071/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Sridhar2071/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Sridhar2071/leetcode-questions/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
