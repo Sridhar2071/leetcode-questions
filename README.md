@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sridhar2071/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sridhar2071/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/Sridhar2071/leetcode-questions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
