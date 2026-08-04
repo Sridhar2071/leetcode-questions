@@ -16,7 +16,7 @@ class Solution {
         }
         int i=0;
         int j=0;
-        while(i<arr.length){
+        while(i<arr.length && j<nums.length){
             if(arr[i]==nums[j]){
                 i++;
                 j++;
@@ -24,6 +24,10 @@ class Solution {
                 list.add(arr[i]);
                 i++;
             }
+        }
+        while (i < arr.length) {
+            list.add(arr[i]);
+            i++;
         }
         
         return list;
