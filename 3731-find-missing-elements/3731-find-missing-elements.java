@@ -1,33 +1,44 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> list=new ArrayList<>();
-        int max=Integer.MIN_VALUE;
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++){
-            max=Math.max(nums[i],max);
-            min=Math.min(nums[i],min);
-        }
-        int arr[]=new int[max-min+1];
-          Arrays.sort(nums);
-        int k=0;
-        for(int i=min;i<=max;i++){
-            arr[k]=i;
-            k++;
-        }
-        int i=0;
-        int j=0;
-        while(i<arr.length && j<nums.length){
-            if(arr[i]==nums[j]){
-                i++;
-                j++;
-            }else{
-                list.add(arr[i]);
-                i++;
+        // int max=Integer.MIN_VALUE;
+        // int min=Integer.MAX_VALUE;
+        // for(int i=0;i<nums.length;i++){
+        //     max=Math.max(nums[i],max);
+        //     min=Math.min(nums[i],min);
+        // }
+        // int arr[]=new int[max-min+1];
+        //   Arrays.sort(nums);
+        // int k=0;
+        // for(int i=min;i<=max;i++){
+        //     arr[k]=i;
+        //     k++;
+        // }
+        // int i=0;
+        // int j=0;
+        // while(i<arr.length && j<nums.length){
+        //     if(arr[i]==nums[j]){
+        //         i++;
+        //         j++;
+        //     }else{
+        //         list.add(arr[i]);
+        //         i++;
+        //     }
+        // }
+        // while (i < arr.length) {
+        //     list.add(arr[i]);
+        //     i++;
+        // }
+        Arrays.sort(nums);
+         for (int i = 0; i < nums.length - 1; i++) {
+
+            int current = nums[i];
+            int next = nums[i + 1];
+
+            while (current + 1 < next) {
+                list.add(current + 1);
+                current++;
             }
-        }
-        while (i < arr.length) {
-            list.add(arr[i]);
-            i++;
         }
         
         return list;
