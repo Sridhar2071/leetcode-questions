@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sridhar2071/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
