@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/Sridhar2071/leetcode-questions/tree/master/1534-count-good-triplets) |
 | [1748-sum-of-unique-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/1748-sum-of-unique-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
