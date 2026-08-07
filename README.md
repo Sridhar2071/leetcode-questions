@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sridhar2071/leetcode-questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sridhar2071/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
