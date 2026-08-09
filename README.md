@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
+| [0598-range-addition-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sridhar2071/leetcode-questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
+| [0598-range-addition-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sridhar2071/leetcode-questions/tree/master/0704-binary-search) |
