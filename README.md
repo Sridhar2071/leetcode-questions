@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sridhar2071/leetcode-questions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -183,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
