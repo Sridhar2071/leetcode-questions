@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
 | [0598-range-addition-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/0908-smallest-range-i) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sridhar2071/leetcode-questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0908-smallest-range-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1470-shuffle-the-array) |
