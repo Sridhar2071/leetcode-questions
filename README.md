@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/0908-smallest-range-i) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sridhar2071/leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sridhar2071/leetcode-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Sridhar2071/leetcode-questions/tree/master/3838-weighted-word-mapping) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
