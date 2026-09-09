@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sridhar2071/leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Sridhar2071/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -246,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sridhar2071/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
