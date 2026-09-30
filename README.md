@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Sridhar2071/leetcode-questions/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sridhar2071/leetcode-questions/tree/master/0441-arranging-coins) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sridhar2071/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0061-rotate-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sridhar2071/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sridhar2071/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
