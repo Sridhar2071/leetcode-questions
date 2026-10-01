@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Sridhar2071/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sridhar2071/leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -279,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sridhar2071/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sridhar2071/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sridhar2071/leetcode-questions/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sridhar2071/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sridhar2071/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
