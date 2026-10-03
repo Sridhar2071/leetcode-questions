@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Sridhar2071/leetcode-questions/tree/master/0415-add-strings) |
 | [0942-di-string-match](https://github.com/Sridhar2071/leetcode-questions/tree/master/0942-di-string-match) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sridhar2071/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -216,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sridhar2071/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/Sridhar2071/leetcode-questions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/1025-divisor-game) |
 ## Monotonic Stack
