@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Sridhar2071/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sridhar2071/leetcode-questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sridhar2071/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0506-relative-ranks) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sridhar2071/leetcode-questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sridhar2071/leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sridhar2071/leetcode-questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
