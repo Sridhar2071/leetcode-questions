@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Sridhar2071/leetcode-questions/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Sridhar2071/leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Sridhar2071/leetcode-questions/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sridhar2071/leetcode-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sridhar2071/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sridhar2071/leetcode-questions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sridhar2071/leetcode-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sridhar2071/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
