@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sridhar2071/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sridhar2071/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Sridhar2071/leetcode-questions/tree/master/0056-merge-intervals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sridhar2071/leetcode-questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Sridhar2071/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sridhar2071/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sridhar2071/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
